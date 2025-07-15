@@ -27,12 +27,13 @@ flask-todo-app/
 ├── models.py
 ├── requirements.txt
 ├── Procfile
-├── /templates/
-│ ├── base.html
-│ ├── index.html
-│ ├── login.html
-│ └── register.html
-├── /static/
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── login.html
+│   └── register.html
+├── static/
+
 
 **Asma**  
 
