@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}Register{% endblock %}
+{% block body %}
+<div class="container my-4">
+  <h2>Register</h2>
+  <form method="POST">
+    <input name="username" class="form-control my-2" placeholder="Username" required>
+    <input name="email" class="form-control my-2" placeholder="Email" type="email" required>
+    <input name="password" class="form-control my-2" placeholder="Password" type="password" required>
+    <button class="btn btn-dark">Register</button>
+  </form>
+</div>
+{% endblock %}
