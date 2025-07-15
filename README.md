@@ -22,17 +22,21 @@ Flask TODO App is a simple and secure web-based task manager built using Flask, 
 ---
 
 ##  Project Structure
+```
 flask-todo-app/
 ├── app.py
 ├── models.py
 ├── requirements.txt
 ├── Procfile
 ├── templates/
-│   ├── base.html
-│   ├── index.html
-│   ├── login.html
-│   └── register.html
+│ ├── base.html
+│ ├── index.html
+│ ├── login.html
+│ └── register.html
 ├── static/
+```
+
+
 
 
 **Asma**  
